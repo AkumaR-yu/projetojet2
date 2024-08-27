@@ -1,0 +1,51 @@
+*{
+    background-color: rgb(255, 249, 219);
+    padding: 2;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    
+    
+}
+.item {
+    background-color: rgb(255, 255, 255);
+
+}
+
+img{width: 39vw;
+    border-radius: 0.8vw;
+    border-style:dashed;
+    border-color: rgb(64, 65, 20);
+    border-width: 0.1vw;
+}
+img {width: 34;
+
+
+}
+
+main{
+    display:flex;
+    border-radius: 0vw;
+    background-color: rgb(255, 249, 219); height: 29vw;
+    display: flex;
+    align-items: center;
+    flex-direction: row; 
+    border-style:dotted;
+    border-width: vw;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color: rgb(153, 146, 112);
+
+}
+aside{
+    border-radius: 1vw;
+    background-color: rgb(255, 249, 219); height: 29vw;
+    display: flex;
+    align-items: center;
+    flex-direction: row; 
+}
